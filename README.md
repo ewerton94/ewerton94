@@ -1,16 +1,14 @@
-### Hi there 👋
+# Ewerton Oliveira :man_technologist:
 
-<!--
-**ewerton94/ewerton94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ewerton94)](https://github.com/ewerton94)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ewerton-amorim-de-oliveira-475963115/)](https://www.linkedin.com/in/ewerton-amorim-de-oliveira-475963115/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ewerton.oliveira.py@gmail.com)](mailto:ewerton.oliveira.py@gmail.com)
 
-Here are some ideas to get you started:
+### Hellooo! 👋 Welcome to my profile
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Ewerton and I'm Software developer.
+
+ - 🔥 In love with Python (Django, Pandas, Scikit-learn) and Javascript (Quasar + VueJS)
+ - ❤️ Public Transportation 
+ - 🔥 Currently learning NodeJS and ReactJS
+ - 😄 Also DevOps 
