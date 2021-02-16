@@ -6,9 +6,9 @@
 
 ### Hellooo! 👋 Welcome to my profile
 
-My name is Ewerton and I'm Software developer.
+My name is Ewerton and I'm a Software Developer.
 
- - 🔥 In love with Python (Django, Pandas, Scikit-learn) and Javascript (Quasar + VueJS)
- - ❤️ Public Transportation 
+ - 🔥 Pumped at solving problems using Python (Django, Pandas, Scikit-learn) and Javascript (Quasar + VueJS)
+ - ❤️ In love with help Public Transportation Management
  - 🔥 Currently learning NodeJS and ReactJS
  - 😄 Also DevOps 
