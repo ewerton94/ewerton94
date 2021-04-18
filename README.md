@@ -8,7 +8,7 @@
 
 My name is Ewerton and I'm a Software Developer.
 
- - 🔥 Pumped at solving problems using Python (Django, Pandas, Scikit-learn) and Javascript (Quasar + VueJS)
+ - 🔥 Excited about solving problems using Python (Django, Pandas, Scikit-learn) and Javascript (Quasar + VueJS)
  - ❤️ In love with help Public Transportation Management
  - 🔥 Currently learning NodeJS and ReactJS
  - 😄 Also DevOps 
